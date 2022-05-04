@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sudo apt-get updat
+sudo apt-get update
 
 sudo apt intstall nodejs -y
